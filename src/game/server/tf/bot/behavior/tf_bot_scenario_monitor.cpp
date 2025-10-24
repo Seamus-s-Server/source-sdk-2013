@@ -218,7 +218,7 @@ Action< CTFBot > *CTFBotScenarioMonitor::DesiredScenarioAndClassAction( CTFBot *
 		}
 
 		// capture the flag
-		// The normal TFBot AI alreeady captures the flag. See line 249 - Siobhan-Saoirse
+		// The normal TFBot AI alreeady captures the flag. See below - Siobhan-Saoirse
 	}
 
 	if ( me->IsPlayerClass( TF_CLASS_SPY ) )
